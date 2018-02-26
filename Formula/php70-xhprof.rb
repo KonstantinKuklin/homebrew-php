@@ -7,7 +7,6 @@ class Php70Xhprof < AbstractPhp70Extension
   url "https://github.com/longxinH/xhprof/archive/v1.2.zip"
   sha256 "f0eaf408631d9b52cb71ff46b93e2eca54966c711f1111f616e0393088361a21"
   head "https://github.com/longxinH/xhprof.git"
-  version "1.2"
 
   depends_on "pcre"
 
